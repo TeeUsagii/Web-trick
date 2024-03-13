@@ -1,0 +1,15 @@
+/* @media screen and (max-width: 1024px ) {
+    h1 {
+        color: red;
+    }
+}
+
+@media only print {
+    h1 {
+        color: #ccc;
+    }
+} */
+
+h1 {
+    color: red;
+}
